@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    background-color: #5271ff;
+    background-color: #5678f8;
 }
 
 ul {
@@ -51,7 +51,7 @@ ul.bullets li {
     margin-bottom: 325px;
     position: relative;
     z-index: 3;
-    background-color: #5271ff;
+    background-color: #5678f8;
     padding: 0 0 50px 50px;
 }
 
@@ -1444,7 +1444,7 @@ body.resume-home .resume-container .work-history p {
 
 body.resume-home .resume-container .work-history p a {
     display: inline-block;
-    color: #5271ff;
+    color: #5678f8;
     position: relative;
     z-index: 0;
     text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff;
@@ -1457,7 +1457,7 @@ body.resume-home .resume-container .work-history p a:after {
     content: " ";
     width: 100%;
     height: 1px;
-    background-color: #5271ff;
+    background-color: #5678f8;
     left: 0;
     bottom: 4px;
 }
