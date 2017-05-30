@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Sarina");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
 * {
     box-sizing: border-box;
@@ -472,7 +471,7 @@ ul.bullets li {
 
 .hero .logo h1 {
     position: absolute;
-    font-family: 'Sarina';
+    font-family: 'Roboto';
     font-weight: normal;
     color: #fff;
     font-size: 20px;
@@ -666,7 +665,7 @@ ul.bullets li {
 .mid-banner .banner-content h4 {
     margin: 0 0 10px;
     font-size: 24px;
-    font-family: 'Sarina', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: normal;
 }
 
@@ -849,7 +848,7 @@ ul.bullets li {
     bottom: 0;
 }
 
-.vr-snippet.digitalocean h4 {
+.vr-snippet.vyoo-campaign h4 {
     margin-top: 7px;
 }
 
@@ -1336,7 +1335,7 @@ body.resume-home .resume-container .download-options a:hover {
 }
 
 body.resume-home .resume-container h1 {
-    font-family: 'Sarina', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: normal;
     color: #ef2a76;
     margin: 0;
