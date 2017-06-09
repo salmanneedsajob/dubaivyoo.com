@@ -1632,3 +1632,12 @@ svg circle {
         transform: rotate(0deg);
     }
 }
+
+.formlite {
+    margin: 100px auto;
+    width: 100%;
+    margin-bottom: 10px !important;
+    max-width: 350px;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.2);
+    display: block;
+}
