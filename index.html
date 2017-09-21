@@ -59,23 +59,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
     </script>
-    <!--Heap Analytics-->
-    <script type="text/javascript">
-        window.heap = window.heap || [], heap.load = function (e, t) {
-            window.heap.appid = e, window.heap.config = t = t || {};
-            var r = t.forceSSL || "https:" === document.location.protocol
-                , a = document.createElement("script");
-            a.type = "text/javascript", a.async = !0, a.src = (r ? "https:" : "http:") + "//cdn.heapanalytics.com/js/heap-" + e + ".js";
-            var n = document.getElementsByTagName("script")[0];
-            n.parentNode.insertBefore(a, n);
-            for (var o = function (e) {
-                    return function () {
-                        heap.push([e].concat(Array.prototype.slice.call(arguments, 0)))
-                    }
-                }, p = ["addEventProperties", "addUserProperties", "clearEventProperties", "identify", "removeEventProperty", "setEventProperties", "track", "unsetEventProperty"], c = 0; c < p.length; c++) heap[p[c]] = o(p[c])
-        };
-        heap.load("2382069386");
-    </script>
+
 </head>
 
 <body>
@@ -279,7 +263,6 @@
                     <a href="https://www.youtube.com/channel/UCwniYCECWMfDCIL09Gb-KVg" target="_blank"> <i class="fa fa-youtube"></i> </a>
                 </li>
             </ul>
-            <!--			<p>Made with my <img class="hand-left" width="18" height="auto" src="assets/images/icon-hand-left.png"> <img class="hand-right" width="18" height="auto" src="assets/images/icon-hand-right.png"></p>-->
         </div>
     </div>
 </body>
